@@ -1,0 +1,6 @@
+﻿  mann.cpp
+  Person.cpp
+C:\Users\cshar\OneDrive\Informatik_Studium\Manuela_Probeklausur_C++\Visual_Studio\Project1\Project1\Person.cpp(20,1): error C2511: "void Person::Print(void)": Überladene Memberfunktion nicht in "Person" gefunden
+C:\Users\cshar\OneDrive\Informatik_Studium\Manuela_Probeklausur_C++\Visual_Studio\Project1\Project1\person.h(5): message : Siehe Deklaration von "Person"
+C:\Users\cshar\OneDrive\Informatik_Studium\Manuela_Probeklausur_C++\Visual_Studio\Project1\Project1\Person.cpp(21,14): error C2597: Ungültiger Verweis auf nicht-statischen Member "Person::name"
+  Code wird generiert...
